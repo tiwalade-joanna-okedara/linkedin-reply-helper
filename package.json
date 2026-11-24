@@ -1,0 +1,1 @@
+{"name":"linkedin-reply-helper","version":"1.0.0","description":"Draft replies to LinkedIn comments in your own voice, for you to review and post yourself.","main":"reply.js","scripts":{"test":"node test.js"},"engines":{"node":">=18"},"author":"Tiwalade Joanna Okedara-Kalu","license":"MIT"}
